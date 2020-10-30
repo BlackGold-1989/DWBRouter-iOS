@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>113373626003-ptrp0q6kh00cdm8ov7lg3b4p72fu6dsb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.113373626003-ptrp0q6kh00cdm8ov7lg3b4p72fu6dsb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>113373626003-34lko47kimvl7c0mm773tpjc98mkaqcq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFm3rO3YtNk7UJvwsQjZ9I-QdDg4YwWME</string>
+	<key>GCM_SENDER_ID</key>
+	<string>113373626003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.laodev.dwbrouter</string>
+	<key>PROJECT_ID</key>
+	<string>dwb-route</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dwb-route.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:113373626003:ios:255a4d96832f6224d7d766</string>
+	<key>DATABASE_URL</key>
+	<string>https://dwb-route.firebaseio.com</string>
+</dict>
+</plist>
