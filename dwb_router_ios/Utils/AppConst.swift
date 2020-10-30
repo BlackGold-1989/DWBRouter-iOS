@@ -9,9 +9,8 @@
 import Foundation
 
 class AppConst: NSObject {
-    //let sendGridKey = "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"
-    static var SENDGRID_APIKEY : String = "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"
-    static var GOOGLE_MAP_KEY = "AIzaSyB8276eFsTXE4yf8ZOB_wLBp1dXOiJ9zfA"
+    static var SENDGRID_APIKEY : String = "Your sandbox key
+    static var GOOGLE_MAP_KEY = "Your Google Key"
     
 //    static var postalCodeDenHaag: [String] = [
 //            "1012",
